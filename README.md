@@ -17,6 +17,6 @@
 - Глобальный и локальный чат;
 
 # Необходимые плагины для работы ExChat
-- LuckPerms [Скачать]([https://pages.github.com/](https://luckperms.net/download)).
-- PlaceholderAPI [Скачать]([[https://pages.github.com/](https://luckperms.net/download)](https://www.spigotmc.org/resources/placeholderapi.6245/)).
-This site was built using [GitHub Pages](https://pages.github.com/).
+- LuckPerms [GitHub Pages](https://pages.github.com/).
+- PlaceholderAPI [GitHub Pages](https://www.spigotmc.org/resources/placeholderapi.6245/).
+
